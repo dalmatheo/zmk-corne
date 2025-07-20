@@ -29,7 +29,7 @@ layers:
   - I
   - O
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - EP TOG
   - Z
   - X
   - C
