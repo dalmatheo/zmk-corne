@@ -57,7 +57,7 @@
             bindings = <
 &kp ESC            &kp Q  &kp W  &kp F   &kp P      &kp B                             &kp UP                &kp J      &kp L           &kp U      &kp Y    &kp APOSTROPHE  &kp BSPC
 &kp TAB            &kp A  &kp R  &kp S   &kp T      &kp G                   &kp LEFT  &kp ENTER  &kp RIGHT  &kp M      &kp N           &kp E      &kp I    &kp O           &none
-&ext_power EP_TOG  &kp Z  &kp X  &kp C   &kp V      &kp B      &kp SPACE              &kp DOWN              &kp K      &kp H           &kp COMMA  &kp DOT  &kp FSLH        &none
+&ext_power EP_TOG  &kp Z  &kp X  &kp C   &kp D      &kp V      &kp SPACE              &kp DOWN              &kp K      &kp H           &kp COMMA  &kp DOT  &kp FSLH        &none
                                  &tog 1  &kp LCTRL  &kp SPACE                                               &kp ENTER  &kp LEFT_SHIFT  &tog 2
             >;
 
